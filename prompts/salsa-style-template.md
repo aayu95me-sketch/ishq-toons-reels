@@ -1,0 +1,5 @@
+# Salsa-style clip (owner's favourite reference, 20 Nov). BEST MATCH so far.
+Make ONE video with Veo 3.1 Lite, 9:16, 8 seconds, x1. Use EXACTLY this prompt word for word, do not rewrite:
+3D Pixar-style animated young Indian couple in love dancing a fast, playful salsa-bachata partner dance together on [PLACE] at night, one continuous shot. Aarav: young man, short wavy black hair, warm brown skin, light stubble. Meera: young woman, long wavy black hair loose, small bindi, warm brown skin. Clean faces, no tears, no face marks. Outfit: [OUTFIT]. Setting: [SETTING]. Static camera, wide shot, full bodies head to toe, camera does not move. Dance, continuous and energetic for the whole 8 seconds, they hold hands the entire time: [MOVES]. They keep eye contact and laugh, playful teasing chemistry, they never look at the camera. Smooth, rhythmic, lively. Wholesome, no kissing, no text, no logos.
+Test 1 outfit: Aarav white shirt sleeves rolled, black trousers, white sneakers; Meera red flowy midi dress short sleeves, white sneakers. Setting: rooftop, Mumbai skyline + sea.
+For 3 clips of one reel: keep [PLACE]/[OUTFIT]/[SETTING] identical, change only [MOVES].
