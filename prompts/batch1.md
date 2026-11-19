@@ -1,5 +1,7 @@
 # Batch 1: 7 reels (Toon Jodi). Our own couple. 3 Veo 3.1 Lite clips each, 9:16, ~24 s.
 
+## DANCE RULE (owner 20 Nov): v1 looked like acting, not dance. Every clip must say: 'energetic Bollywood couple dance, dancing NON-STOP for the full 8 seconds', 'Static wide camera, full bodies head to toe, feet visible', and a beat-by-beat list of steps (sync side steps + hand gestures, shoulder shimmy, thumka, under-arm spins, fast footwork, finish pose). Max ONE close-up per reel. Never repeat the same action in two clips.
+
 ## Our couple (paste in EVERY clip, word for word)
 CHAR = "3D Pixar-style animated Indian couple. Aarav: young man, short wavy black hair, warm brown skin, light stubble, kind dark eyes. Meera: young woman, long straight black hair with a loose side braid and small jasmine flowers, big brown eyes, small red bindi, warm brown skin. Clean faces, no tears, no face marks. Wholesome, no kissing. Vertical 9:16, soft cinematic light, smooth graceful dance motion, no text, no logos."
 
