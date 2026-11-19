@@ -1,0 +1,3 @@
+# Love-dance clip template (owner 20 Nov: "chemistry, love angle, like toonlywood, not showing dance to us")
+"3D Pixar-style animated Indian couple deeply in love, doing a romantic partner dance together, lost in each other's eyes, they never look at the camera. [CHAR] [OUTFIT] [SETTING] Camera slowly circles around them, full bodies. Dance, continuous for the whole 8 seconds: [3-4 partner moves: close hold sway, twirl out and spin back into his arms, back-to-chest sway, gentle dip, forehead close, lift]. Strong romantic chemistry, tender, playful, smooth graceful motion. Wholesome, no kissing, no text, no logos."
+Outfit fix: blouse keeps coming out cropped; say "long kurti top covering the waist, no bare midriff".
