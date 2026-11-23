@@ -20,3 +20,9 @@ hook 2 (wheel inches from an unguarded drop), feeling 2 (fear + awe), curiosity 
 
 Text: 0-1.6 s "Would you ride this? 😳" (big, centre-top). 13-15 s "Tag the friend you'd ride this with 👇".
 Caption: "POV: the scariest road in the Himalayas 😳 Rate it 1-10 👇 #ladakh #pov #adventure #bikeride #travel". AI label ticked.
+
+## Council log (23 Nov 2026)
+- R1 blind: ChatGPT 7 stop / 6 retention / 7 share, APPROVE + fix "wheel slip in second 1". Gemini 8.5 / 7.5 / 9, APPROVE + "tension at the end".
+- Leader: took the slip into shot 1 (first 2 s decide swipes), kept lake payoff.
+- R2 on the built reel (described frame by frame; members did not watch the file): ChatGPT stop 8.5, viewer card 8.5, APPROVE (check slip looks real at full speed). Gemini stop 9, viewer card 8.5, APPROVE.
+- File: /mnt/project-files/reels/adv01-v3-draft.mp4
